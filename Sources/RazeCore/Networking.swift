@@ -1,12 +1,14 @@
 //
-//  RazeCore.swift
+//  Networking.swift
 //  RazeCore
 //
 //  Created by Faraz Haider on 18/04/2021.
 //
 
 import Foundation
-
-public struct RazeCore{
+extension RazeCore {
     
+    public class Networking{
+        
+    }
 }
